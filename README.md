@@ -1,1 +1,1 @@
-# 07-appgobarber
+# appgobarber. Rocketseat course practice
